@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/metoama/Back-End-E-commerce/issues"
   },
-  "homepage": "https://github.com/metoama/Back-End-E-commerce#readme",
+  
   "dependencies": {
     "bcrypt": "^5.1.0",
     "dotenv": "^16.0.3",
